@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Reckonix</string>
+    <string name="progress_msg_please_wait">Please wait…</string>
+    <string name="url">URL</string>
+    <string name="done">Done</string>
+
+</resources>
